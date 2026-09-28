@@ -6,10 +6,6 @@ Este repositório contém a entrega da atividade de Conceitos de Interface do Us
 
 O objetivo principal deste projeto é reproduzir com alta fidelidade visual a tela principal do aplicativo Tinder (Card de perfil com botões de ação ancorados na base e cabeçalho superior), aplicando exclusivamente conceitos de alinhamento relativo e restrições com ConstraintLayout, sem o uso de posições absolutas (x/y fixos).
 
-🖼️ Comparativo: Clone vs. Original
-
-Abaixo está a comparação entre a tela desenvolvida no Android Studio (à esquerda) e a tela oficial/referência do Tinder (à direita):
-
 🛠️ Detalhes da Implementação
 
 📂 Estrutura do Projeto
